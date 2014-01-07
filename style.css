@@ -1,0 +1,72 @@
+#footer
+{
+	width: 800px;
+	border-style: solid;
+	border-width: 1px;
+	margin: 20px 10px 20px 10px;
+	padding: 20px 20px 20px 20px; 
+}
+#header
+{
+	width: 800px;
+	border-style: solid;
+	border-width: 1px;
+	margin: 20px 10px 20px 10px;
+	padding: 20px 20px 20px 20px;
+}
+
+#container
+{
+	height: 800px;
+	width: 800px;
+	border-style: solid;
+	border-width: 1px;
+	margin: 20px 10px 20px 10px;
+	padding: 20px 20px 20px 20px;
+}
+
+#userinfo
+{
+	float: right;
+	width: 30%;
+	padding: 0px 0px 0px 10px;
+}
+
+#userlist
+{
+	float: left;
+	width: 68%;
+}
+
+#list0
+{
+	float: left;
+	width: 25%;
+	background-color: rgb(200,200,200);
+}
+
+#list1
+{
+	float: left;
+	width: 25%;
+	background-color: rgb(240,240,240);
+}
+
+#list2
+{
+	float: left;
+	width: 25%;
+	background-color: rgb(230,230,230);
+}
+
+#username
+{
+	float: left;
+	width: *;
+}
+
+#navigatebottons
+{
+	float: right;
+	width: 20px;
+}
